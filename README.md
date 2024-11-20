@@ -1,4 +1,4 @@
-# Update-LEIHS-Users-from-Power-Automate
+# Update LEIHS Users from Power Automate
 
 This is a Power Automate flow designed for updating user accounts in the LEIHS Inventory Management System using accounts from Active Directory. It can be run with the credentials of any user in AD. 
 
